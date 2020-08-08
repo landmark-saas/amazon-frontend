@@ -1,4 +1,5 @@
 simon
 Anna
-Dev-Frida
-Henry-UAT
+Frida
+Henry
+Patrick
